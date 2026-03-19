@@ -1,0 +1,501 @@
+﻿Case_ID,Report_Date,Drug_Name,Indication,SOC,Reaction,Serious,Outcome,Age_Group,Gender,Country
+PV0001,16-10-2024,Amoxicillin,Infection,Skin disorders,Fatigue,Yes,Recovering,Pediatric,M,Canada
+PV0002,08-03-2024,Amoxicillin,Hyperlipidemia,General disorders,Nausea,Yes,Recovered,Elderly,M,Canada
+PV0003,05-03-2024,Paracetamol,Infection,Cardiac disorders,Headache,Yes,Recovered,Adult,M,USA
+PV0004,11-12-2023,Ibuprofen,Pain,General disorders,Headache,Yes,Recovered,Pediatric,F,Canada
+PV0005,08-05-2023,Atorvastatin,Pain,General disorders,Headache,No,Recovered,Elderly,M,India
+PV0006,16-02-2023,Paracetamol,Infection,GI disorders,Dizziness,No,Recovering,Adult,F,UK
+PV0007,16-06-2023,Ibuprofen,Fever,General disorders,Fatigue,No,Recovered,Pediatric,M,USA
+PV0008,18-04-2024,Ciprofloxacin,Hyperlipidemia,Skin disorders,Fatigue,No,Fatal,Adult,M,USA
+PV0009,02-02-2023,Paracetamol,Infection,General disorders,Fatigue,No,Recovered,Adult,M,Germany
+PV0010,10-02-2024,Amoxicillin,Pain,Skin disorders,Rash,No,Recovering,Elderly,F,Canada
+PV0011,14-03-2024,Amoxicillin,Infection,General disorders,Dizziness,No,Recovered,Pediatric,M,India
+PV0012,06-06-2023,Metformin,Hyperlipidemia,GI disorders,Dizziness,No,Recovering,Adult,F,Canada
+PV0013,15-09-2023,Paracetamol,Fever,General disorders,Headache,No,Not Recovered,Elderly,F,India
+PV0014,28-10-2023,Ciprofloxacin,Pain,General disorders,Rash,No,Recovered,Elderly,M,UK
+PV0015,16-10-2024,Ibuprofen,Infection,General disorders,Palpitations,No,Recovered,Pediatric,F,Germany
+PV0016,20-01-2023,Ibuprofen,Infection,GI disorders,Rash,Yes,Recovered,Elderly,M,India
+PV0017,12-05-2024,Atorvastatin,Infection,Skin disorders,Fatigue,No,Fatal,Adult,M,UK
+PV0018,24-06-2024,Amoxicillin,Hyperlipidemia,Skin disorders,Fatigue,No,Recovered,Adult,F,UK
+PV0019,24-03-2024,Amoxicillin,Infection,GI disorders,Headache,No,Recovered,Pediatric,M,Canada
+PV0020,14-08-2023,Paracetamol,Infection,GI disorders,Nausea,Yes,Recovering,Adult,M,Canada
+PV0021,01-09-2023,Atorvastatin,Infection,General disorders,Palpitations,Yes,Recovered,Adult,M,Germany
+PV0022,21-02-2024,Metformin,Pain,Cardiac disorders,Dizziness,Yes,Recovered,Adult,M,India
+PV0023,04-03-2023,Paracetamol,Infection,Skin disorders,Rash,No,Recovered,Elderly,F,USA
+PV0024,08-03-2024,Paracetamol,Diabetes,General disorders,Nausea,Yes,Recovered,Pediatric,M,India
+PV0025,31-08-2023,Amoxicillin,Diabetes,GI disorders,Rash,Yes,Recovered,Adult,M,Germany
+PV0026,29-09-2023,Ibuprofen,Diabetes,General disorders,Fatigue,No,Recovering,Elderly,F,USA
+PV0027,14-07-2023,Atorvastatin,Hyperlipidemia,GI disorders,Fatigue,Yes,Fatal,Adult,M,India
+PV0028,21-08-2024,Atorvastatin,Infection,GI disorders,Palpitations,No,Not Recovered,Pediatric,M,India
+PV0029,01-09-2024,Metformin,Fever,General disorders,Rash,Yes,Not Recovered,Elderly,M,Canada
+PV0030,25-03-2023,Atorvastatin,Pain,Nervous system disorders,Rash,No,Recovered,Elderly,F,USA
+PV0031,29-09-2023,Ibuprofen,Diabetes,Nervous system disorders,Nausea,No,Recovering,Pediatric,F,Canada
+PV0032,30-07-2024,Amoxicillin,Hyperlipidemia,Nervous system disorders,Rash,No,Recovered,Adult,M,USA
+PV0033,14-01-2024,Atorvastatin,Pain,General disorders,Fatigue,Yes,Recovered,Elderly,M,Canada
+PV0034,03-11-2023,Amoxicillin,Pain,GI disorders,Nausea,No,Recovered,Elderly,M,UK
+PV0035,16-10-2023,Amoxicillin,Pain,General disorders,Dizziness,No,Recovering,Adult,M,India
+PV0036,11-10-2024,Paracetamol,Pain,Skin disorders,Fatigue,No,Recovered,Adult,M,Germany
+PV0037,18-07-2024,Paracetamol,Fever,Skin disorders,Palpitations,No,Recovered,Pediatric,F,Canada
+PV0038,19-07-2024,Ibuprofen,Pain,GI disorders,Headache,Yes,Recovered,Pediatric,M,India
+PV0039,29-12-2023,Metformin,Hyperlipidemia,Skin disorders,Rash,No,Not Recovered,Pediatric,M,Germany
+PV0040,26-01-2023,Metformin,Infection,Nervous system disorders,Rash,Yes,Not Recovered,Elderly,M,Germany
+PV0041,09-02-2023,Metformin,Pain,Nervous system disorders,Rash,No,Recovered,Pediatric,M,USA
+PV0042,13-02-2024,Ibuprofen,Pain,General disorders,Dizziness,No,Not Recovered,Elderly,F,India
+PV0043,29-04-2023,Atorvastatin,Pain,GI disorders,Nausea,No,Recovered,Elderly,F,UK
+PV0044,18-11-2023,Paracetamol,Diabetes,General disorders,Rash,No,Fatal,Adult,M,Germany
+PV0045,02-01-2023,Ciprofloxacin,Infection,Nervous system disorders,Dizziness,No,Not Recovered,Pediatric,F,Canada
+PV0046,18-11-2023,Ibuprofen,Hyperlipidemia,Nervous system disorders,Fatigue,No,Recovered,Adult,F,Germany
+PV0047,14-12-2024,Metformin,Diabetes,Skin disorders,Palpitations,Yes,Recovered,Elderly,F,Germany
+PV0048,15-07-2024,Amoxicillin,Diabetes,General disorders,Palpitations,No,Recovered,Elderly,F,Germany
+PV0049,28-03-2024,Metformin,Infection,GI disorders,Headache,No,Recovered,Elderly,F,India
+PV0050,29-08-2023,Amoxicillin,Infection,GI disorders,Nausea,No,Recovered,Pediatric,F,Canada
+PV0051,16-03-2023,Atorvastatin,Infection,Cardiac disorders,Dizziness,No,Not Recovered,Adult,M,USA
+PV0052,02-11-2024,Paracetamol,Diabetes,Skin disorders,Rash,No,Not Recovered,Elderly,F,India
+PV0053,24-07-2024,Metformin,Infection,Cardiac disorders,Fatigue,Yes,Not Recovered,Elderly,F,Germany
+PV0054,19-09-2024,Metformin,Hyperlipidemia,Cardiac disorders,Rash,No,Not Recovered,Elderly,F,Germany
+PV0055,23-09-2023,Ibuprofen,Hyperlipidemia,Cardiac disorders,Fatigue,No,Not Recovered,Pediatric,F,Germany
+PV0056,21-03-2023,Ibuprofen,Pain,General disorders,Nausea,No,Recovered,Pediatric,M,USA
+PV0057,28-01-2024,Paracetamol,Diabetes,Cardiac disorders,Headache,No,Recovering,Elderly,F,Germany
+PV0058,05-03-2023,Atorvastatin,Fever,General disorders,Dizziness,Yes,Recovered,Adult,M,UK
+PV0059,02-11-2023,Metformin,Hyperlipidemia,General disorders,Palpitations,No,Not Recovered,Pediatric,F,USA
+PV0060,07-10-2023,Ibuprofen,Diabetes,Skin disorders,Dizziness,No,Recovered,Pediatric,M,Germany
+PV0061,29-08-2024,Ciprofloxacin,Diabetes,Skin disorders,Dizziness,No,Recovered,Pediatric,M,UK
+PV0062,24-01-2024,Ibuprofen,Diabetes,Nervous system disorders,Dizziness,No,Recovered,Adult,M,Germany
+PV0063,20-01-2023,Ibuprofen,Infection,GI disorders,Fatigue,No,Recovered,Pediatric,M,USA
+PV0064,24-07-2023,Amoxicillin,Infection,Cardiac disorders,Fatigue,No,Recovering,Pediatric,M,Germany
+PV0065,17-12-2024,Atorvastatin,Hyperlipidemia,GI disorders,Rash,Yes,Recovered,Adult,M,Canada
+PV0066,27-01-2023,Metformin,Diabetes,Skin disorders,Nausea,No,Recovered,Elderly,M,India
+PV0067,14-12-2024,Atorvastatin,Fever,General disorders,Nausea,No,Not Recovered,Adult,F,UK
+PV0068,12-03-2023,Metformin,Diabetes,GI disorders,Dizziness,No,Recovered,Adult,F,USA
+PV0069,21-03-2024,Ciprofloxacin,Pain,General disorders,Palpitations,Yes,Recovered,Adult,F,Germany
+PV0070,29-08-2024,Paracetamol,Pain,Cardiac disorders,Rash,Yes,Not Recovered,Adult,F,UK
+PV0071,30-01-2023,Metformin,Infection,Nervous system disorders,Headache,No,Recovered,Adult,F,Canada
+PV0072,19-12-2024,Atorvastatin,Infection,GI disorders,Rash,No,Recovered,Elderly,F,Germany
+PV0073,22-07-2024,Ciprofloxacin,Diabetes,Cardiac disorders,Nausea,No,Recovering,Pediatric,F,USA
+PV0074,19-02-2024,Atorvastatin,Pain,Cardiac disorders,Palpitations,No,Recovered,Elderly,F,Germany
+PV0075,17-07-2024,Ibuprofen,Pain,Nervous system disorders,Rash,No,Recovering,Pediatric,M,UK
+PV0076,03-05-2023,Ciprofloxacin,Infection,Skin disorders,Rash,No,Fatal,Elderly,F,UK
+PV0077,26-08-2024,Ibuprofen,Fever,Skin disorders,Headache,No,Recovered,Pediatric,F,USA
+PV0078,06-11-2023,Ibuprofen,Fever,GI disorders,Palpitations,Yes,Recovered,Adult,M,Germany
+PV0079,16-04-2023,Metformin,Diabetes,Cardiac disorders,Headache,No,Recovered,Pediatric,M,UK
+PV0080,04-05-2024,Metformin,Fever,General disorders,Fatigue,Yes,Recovered,Elderly,M,USA
+PV0081,02-06-2023,Paracetamol,Infection,GI disorders,Palpitations,No,Not Recovered,Adult,M,Canada
+PV0082,25-01-2024,Atorvastatin,Diabetes,Nervous system disorders,Palpitations,No,Recovered,Elderly,M,Canada
+PV0083,12-04-2023,Amoxicillin,Pain,GI disorders,Rash,No,Recovered,Pediatric,M,Canada
+PV0084,18-03-2023,Ciprofloxacin,Hyperlipidemia,Cardiac disorders,Headache,Yes,Recovered,Pediatric,M,UK
+PV0085,24-12-2024,Paracetamol,Infection,Nervous system disorders,Fatigue,Yes,Not Recovered,Elderly,M,Germany
+PV0086,28-04-2023,Ibuprofen,Infection,GI disorders,Nausea,No,Recovering,Pediatric,F,Canada
+PV0087,05-08-2024,Metformin,Pain,Cardiac disorders,Headache,No,Recovered,Elderly,F,Germany
+PV0088,24-03-2023,Ciprofloxacin,Pain,General disorders,Headache,No,Not Recovered,Pediatric,M,USA
+PV0089,21-11-2024,Paracetamol,Pain,General disorders,Nausea,No,Recovered,Pediatric,F,Canada
+PV0090,29-10-2024,Atorvastatin,Diabetes,Cardiac disorders,Nausea,No,Recovered,Adult,F,Germany
+PV0091,08-12-2023,Amoxicillin,Pain,Cardiac disorders,Fatigue,No,Recovered,Adult,F,Germany
+PV0092,17-07-2024,Ibuprofen,Pain,GI disorders,Dizziness,Yes,Recovered,Elderly,M,Canada
+PV0093,18-04-2024,Ibuprofen,Hyperlipidemia,Cardiac disorders,Fatigue,No,Recovered,Adult,M,USA
+PV0094,01-10-2023,Metformin,Diabetes,GI disorders,Nausea,No,Not Recovered,Elderly,M,USA
+PV0095,15-11-2023,Paracetamol,Infection,GI disorders,Dizziness,No,Recovered,Pediatric,M,Germany
+PV0096,26-10-2023,Metformin,Diabetes,Skin disorders,Dizziness,No,Recovered,Elderly,M,Germany
+PV0097,15-07-2023,Amoxicillin,Fever,Nervous system disorders,Dizziness,No,Recovered,Adult,F,India
+PV0098,17-10-2023,Atorvastatin,Diabetes,Skin disorders,Dizziness,No,Not Recovered,Elderly,F,UK
+PV0099,07-12-2023,Metformin,Pain,Skin disorders,Fatigue,No,Recovered,Pediatric,F,USA
+PV0100,25-02-2024,Ciprofloxacin,Diabetes,Cardiac disorders,Fatigue,Yes,Recovering,Elderly,M,Germany
+PV0101,07-02-2023,Ibuprofen,Fever,Cardiac disorders,Nausea,Yes,Fatal,Elderly,F,India
+PV0102,28-05-2023,Amoxicillin,Fever,Cardiac disorders,Headache,No,Recovering,Adult,F,India
+PV0103,03-12-2023,Metformin,Pain,Cardiac disorders,Palpitations,No,Not Recovered,Pediatric,M,USA
+PV0104,08-10-2024,Amoxicillin,Fever,Cardiac disorders,Nausea,No,Recovered,Elderly,M,Germany
+PV0105,20-06-2023,Paracetamol,Pain,GI disorders,Headache,No,Not Recovered,Adult,F,Germany
+PV0106,30-05-2023,Ciprofloxacin,Infection,Skin disorders,Rash,Yes,Recovered,Pediatric,F,Canada
+PV0107,30-11-2024,Amoxicillin,Infection,Cardiac disorders,Fatigue,Yes,Not Recovered,Adult,F,UK
+PV0108,13-11-2024,Ibuprofen,Hyperlipidemia,Skin disorders,Nausea,Yes,Not Recovered,Adult,F,Canada
+PV0109,03-11-2023,Ibuprofen,Diabetes,Nervous system disorders,Rash,No,Recovered,Adult,F,India
+PV0110,31-08-2023,Ibuprofen,Pain,GI disorders,Fatigue,No,Recovered,Adult,F,India
+PV0111,02-08-2024,Paracetamol,Hyperlipidemia,Cardiac disorders,Headache,No,Recovering,Pediatric,F,USA
+PV0112,13-10-2024,Ciprofloxacin,Infection,GI disorders,Fatigue,Yes,Recovered,Elderly,M,UK
+PV0113,27-03-2024,Amoxicillin,Fever,Nervous system disorders,Headache,Yes,Recovered,Elderly,F,USA
+PV0114,25-07-2023,Ibuprofen,Hyperlipidemia,General disorders,Headache,Yes,Recovered,Pediatric,F,Germany
+PV0115,30-10-2023,Paracetamol,Diabetes,GI disorders,Rash,No,Recovered,Pediatric,F,Canada
+PV0116,10-01-2024,Ibuprofen,Hyperlipidemia,GI disorders,Dizziness,Yes,Recovered,Adult,F,Canada
+PV0117,26-01-2024,Paracetamol,Infection,Cardiac disorders,Nausea,No,Not Recovered,Elderly,F,Canada
+PV0118,15-08-2023,Metformin,Pain,Cardiac disorders,Nausea,No,Recovering,Pediatric,M,India
+PV0119,08-11-2023,Amoxicillin,Hyperlipidemia,Skin disorders,Dizziness,No,Recovered,Adult,F,Canada
+PV0120,05-03-2024,Metformin,Fever,Cardiac disorders,Palpitations,No,Recovering,Adult,F,India
+PV0121,07-12-2024,Amoxicillin,Pain,GI disorders,Fatigue,No,Recovered,Adult,F,India
+PV0122,12-02-2024,Metformin,Fever,Skin disorders,Fatigue,Yes,Fatal,Elderly,M,India
+PV0123,08-12-2023,Atorvastatin,Infection,GI disorders,Palpitations,Yes,Recovered,Pediatric,M,USA
+PV0124,03-12-2023,Atorvastatin,Fever,Nervous system disorders,Rash,No,Recovering,Pediatric,F,USA
+PV0125,23-04-2023,Paracetamol,Pain,Skin disorders,Palpitations,No,Recovered,Adult,M,USA
+PV0126,29-09-2023,Atorvastatin,Fever,GI disorders,Dizziness,Yes,Recovering,Adult,F,Canada
+PV0127,30-08-2024,Atorvastatin,Fever,General disorders,Headache,Yes,Recovered,Adult,M,India
+PV0128,05-05-2024,Paracetamol,Diabetes,Cardiac disorders,Nausea,No,Recovered,Pediatric,F,Canada
+PV0129,01-06-2023,Ciprofloxacin,Hyperlipidemia,General disorders,Fatigue,Yes,Recovered,Adult,F,Canada
+PV0130,27-06-2024,Metformin,Fever,GI disorders,Fatigue,Yes,Recovered,Elderly,M,Germany
+PV0131,07-04-2024,Metformin,Diabetes,Cardiac disorders,Fatigue,No,Recovered,Pediatric,F,Germany
+PV0132,17-11-2023,Amoxicillin,Diabetes,GI disorders,Nausea,No,Recovered,Pediatric,M,Germany
+PV0133,09-04-2023,Amoxicillin,Hyperlipidemia,GI disorders,Palpitations,No,Recovered,Elderly,F,India
+PV0134,25-02-2024,Metformin,Fever,Nervous system disorders,Palpitations,No,Recovering,Adult,F,India
+PV0135,14-08-2024,Metformin,Infection,GI disorders,Headache,No,Recovered,Elderly,F,India
+PV0136,13-10-2023,Atorvastatin,Hyperlipidemia,General disorders,Fatigue,No,Not Recovered,Elderly,M,Canada
+PV0137,04-11-2024,Amoxicillin,Pain,Nervous system disorders,Headache,No,Recovered,Adult,M,USA
+PV0138,27-05-2023,Amoxicillin,Fever,GI disorders,Fatigue,No,Recovered,Elderly,M,Germany
+PV0139,05-03-2024,Ibuprofen,Pain,General disorders,Palpitations,No,Recovered,Pediatric,M,USA
+PV0140,11-06-2023,Paracetamol,Pain,Cardiac disorders,Fatigue,No,Recovered,Adult,F,Canada
+PV0141,28-03-2024,Atorvastatin,Fever,Nervous system disorders,Dizziness,No,Recovered,Pediatric,F,Canada
+PV0142,13-05-2024,Amoxicillin,Diabetes,General disorders,Nausea,No,Recovered,Pediatric,M,UK
+PV0143,05-08-2023,Ibuprofen,Pain,GI disorders,Nausea,No,Recovering,Adult,F,USA
+PV0144,13-05-2023,Atorvastatin,Hyperlipidemia,Nervous system disorders,Nausea,No,Recovering,Adult,M,Germany
+PV0145,20-01-2023,Ibuprofen,Hyperlipidemia,Cardiac disorders,Palpitations,No,Recovered,Adult,F,UK
+PV0146,28-04-2023,Amoxicillin,Hyperlipidemia,Cardiac disorders,Fatigue,No,Fatal,Adult,M,Germany
+PV0147,19-04-2023,Atorvastatin,Fever,Cardiac disorders,Headache,Yes,Recovered,Elderly,F,USA
+PV0148,08-12-2023,Ciprofloxacin,Fever,General disorders,Palpitations,No,Recovered,Pediatric,F,UK
+PV0149,22-10-2024,Amoxicillin,Pain,Skin disorders,Rash,No,Recovered,Elderly,M,India
+PV0150,01-07-2023,Metformin,Hyperlipidemia,General disorders,Dizziness,No,Recovering,Elderly,F,UK
+PV0151,04-06-2023,Ciprofloxacin,Pain,Nervous system disorders,Palpitations,No,Recovered,Pediatric,F,Canada
+PV0152,17-03-2023,Paracetamol,Pain,Nervous system disorders,Nausea,No,Recovered,Elderly,M,Canada
+PV0153,31-08-2024,Atorvastatin,Fever,Cardiac disorders,Palpitations,No,Recovered,Elderly,M,UK
+PV0154,11-09-2024,Paracetamol,Diabetes,GI disorders,Headache,No,Recovered,Elderly,M,Canada
+PV0155,23-10-2024,Metformin,Diabetes,General disorders,Palpitations,Yes,Recovered,Elderly,M,UK
+PV0156,17-01-2024,Ibuprofen,Hyperlipidemia,GI disorders,Fatigue,No,Recovered,Elderly,F,India
+PV0157,04-12-2023,Ibuprofen,Pain,General disorders,Rash,Yes,Recovering,Adult,M,Canada
+PV0158,10-11-2024,Ciprofloxacin,Diabetes,Skin disorders,Palpitations,Yes,Recovered,Elderly,M,UK
+PV0159,26-07-2024,Amoxicillin,Hyperlipidemia,GI disorders,Fatigue,No,Recovering,Elderly,F,Canada
+PV0160,06-01-2024,Amoxicillin,Pain,Cardiac disorders,Rash,Yes,Recovered,Pediatric,M,USA
+PV0161,21-03-2023,Atorvastatin,Hyperlipidemia,General disorders,Nausea,Yes,Recovering,Elderly,F,Canada
+PV0162,15-05-2023,Amoxicillin,Hyperlipidemia,Skin disorders,Fatigue,No,Recovered,Adult,M,Germany
+PV0163,09-01-2024,Metformin,Hyperlipidemia,Nervous system disorders,Fatigue,No,Recovered,Adult,M,Canada
+PV0164,02-09-2023,Metformin,Infection,Nervous system disorders,Fatigue,No,Not Recovered,Elderly,F,Germany
+PV0165,16-10-2023,Metformin,Infection,Skin disorders,Palpitations,No,Recovered,Pediatric,F,India
+PV0166,18-10-2024,Paracetamol,Hyperlipidemia,GI disorders,Headache,No,Recovered,Pediatric,M,UK
+PV0167,05-04-2024,Metformin,Fever,Skin disorders,Dizziness,No,Recovered,Adult,M,Germany
+PV0168,24-02-2023,Metformin,Fever,Nervous system disorders,Rash,No,Recovered,Pediatric,F,India
+PV0169,27-10-2024,Paracetamol,Pain,Cardiac disorders,Fatigue,No,Recovered,Pediatric,F,Germany
+PV0170,22-09-2024,Ibuprofen,Infection,Skin disorders,Palpitations,Yes,Recovered,Elderly,F,India
+PV0171,23-10-2023,Amoxicillin,Diabetes,General disorders,Dizziness,Yes,Recovered,Pediatric,M,Germany
+PV0172,03-09-2024,Atorvastatin,Infection,Skin disorders,Headache,No,Recovering,Adult,M,Canada
+PV0173,28-12-2023,Ciprofloxacin,Fever,General disorders,Headache,Yes,Recovered,Pediatric,M,Germany
+PV0174,26-04-2024,Ibuprofen,Pain,GI disorders,Headache,Yes,Recovered,Pediatric,F,USA
+PV0175,03-11-2024,Ciprofloxacin,Pain,Skin disorders,Nausea,No,Recovering,Adult,F,USA
+PV0176,02-12-2024,Ciprofloxacin,Infection,Skin disorders,Nausea,No,Recovering,Elderly,F,India
+PV0177,28-10-2023,Paracetamol,Pain,Nervous system disorders,Palpitations,Yes,Recovering,Adult,F,UK
+PV0178,07-02-2023,Ibuprofen,Fever,Nervous system disorders,Headache,No,Recovered,Pediatric,F,Germany
+PV0179,14-02-2024,Metformin,Pain,Skin disorders,Dizziness,No,Not Recovered,Elderly,F,UK
+PV0180,15-06-2024,Metformin,Fever,Cardiac disorders,Palpitations,Yes,Recovered,Pediatric,F,UK
+PV0181,16-04-2023,Ibuprofen,Diabetes,General disorders,Fatigue,Yes,Recovering,Adult,M,Germany
+PV0182,26-12-2023,Ibuprofen,Hyperlipidemia,Cardiac disorders,Headache,No,Recovering,Elderly,M,India
+PV0183,18-11-2024,Ciprofloxacin,Infection,GI disorders,Rash,No,Recovered,Elderly,F,India
+PV0184,10-05-2023,Ibuprofen,Pain,Cardiac disorders,Palpitations,Yes,Recovering,Pediatric,M,Germany
+PV0185,15-01-2024,Atorvastatin,Infection,General disorders,Headache,No,Recovering,Adult,F,UK
+PV0186,13-09-2023,Amoxicillin,Diabetes,General disorders,Dizziness,No,Recovered,Elderly,M,UK
+PV0187,24-09-2023,Atorvastatin,Pain,Cardiac disorders,Rash,No,Recovered,Pediatric,M,India
+PV0188,07-04-2024,Paracetamol,Pain,Nervous system disorders,Fatigue,Yes,Recovering,Pediatric,F,UK
+PV0189,11-06-2023,Ciprofloxacin,Infection,Nervous system disorders,Palpitations,No,Not Recovered,Pediatric,M,USA
+PV0190,23-05-2023,Ibuprofen,Hyperlipidemia,General disorders,Headache,Yes,Recovered,Adult,M,Canada
+PV0191,30-03-2023,Ciprofloxacin,Diabetes,General disorders,Dizziness,Yes,Recovered,Adult,M,USA
+PV0192,21-11-2023,Ciprofloxacin,Hyperlipidemia,Nervous system disorders,Rash,No,Recovered,Elderly,M,USA
+PV0193,19-03-2024,Paracetamol,Hyperlipidemia,Skin disorders,Headache,No,Not Recovered,Pediatric,M,UK
+PV0194,27-12-2024,Atorvastatin,Pain,GI disorders,Headache,Yes,Not Recovered,Pediatric,F,USA
+PV0195,02-10-2024,Atorvastatin,Infection,General disorders,Palpitations,No,Recovered,Pediatric,M,Canada
+PV0196,11-09-2024,Paracetamol,Fever,GI disorders,Nausea,No,Not Recovered,Elderly,F,USA
+PV0197,08-08-2024,Metformin,Hyperlipidemia,Nervous system disorders,Fatigue,No,Recovering,Adult,F,USA
+PV0198,02-12-2024,Ciprofloxacin,Fever,Skin disorders,Dizziness,No,Recovered,Adult,F,Germany
+PV0199,28-07-2023,Ciprofloxacin,Pain,Nervous system disorders,Dizziness,No,Recovered,Pediatric,F,Canada
+PV0200,29-07-2024,Paracetamol,Pain,Cardiac disorders,Rash,Yes,Recovered,Pediatric,M,India
+PV0201,25-10-2023,Metformin,Infection,Skin disorders,Headache,No,Not Recovered,Elderly,F,USA
+PV0202,13-06-2023,Metformin,Pain,Cardiac disorders,Nausea,No,Recovered,Pediatric,F,Canada
+PV0203,13-04-2024,Ibuprofen,Fever,GI disorders,Headache,No,Recovered,Adult,F,UK
+PV0204,03-07-2024,Amoxicillin,Pain,Nervous system disorders,Dizziness,Yes,Recovered,Adult,M,Germany
+PV0205,22-02-2023,Atorvastatin,Pain,GI disorders,Dizziness,No,Recovered,Elderly,F,Canada
+PV0206,14-10-2023,Atorvastatin,Fever,Skin disorders,Nausea,No,Recovering,Adult,F,UK
+PV0207,25-07-2024,Amoxicillin,Hyperlipidemia,General disorders,Dizziness,No,Recovering,Elderly,M,India
+PV0208,09-02-2023,Metformin,Hyperlipidemia,Cardiac disorders,Rash,Yes,Recovered,Elderly,M,UK
+PV0209,19-09-2024,Atorvastatin,Pain,General disorders,Headache,No,Recovered,Elderly,F,Canada
+PV0210,03-11-2023,Ibuprofen,Fever,Cardiac disorders,Palpitations,No,Recovered,Adult,M,Canada
+PV0211,30-04-2024,Atorvastatin,Hyperlipidemia,Skin disorders,Fatigue,Yes,Recovering,Pediatric,F,USA
+PV0212,20-06-2024,Metformin,Infection,Skin disorders,Nausea,No,Recovering,Elderly,M,USA
+PV0213,20-01-2023,Metformin,Infection,Cardiac disorders,Palpitations,No,Recovered,Elderly,F,India
+PV0214,23-12-2024,Ibuprofen,Diabetes,General disorders,Dizziness,Yes,Recovered,Adult,M,Germany
+PV0215,29-06-2024,Ciprofloxacin,Pain,General disorders,Dizziness,No,Recovered,Pediatric,M,UK
+PV0216,25-07-2024,Ibuprofen,Pain,Skin disorders,Fatigue,Yes,Not Recovered,Elderly,F,UK
+PV0217,06-05-2024,Ciprofloxacin,Pain,Nervous system disorders,Nausea,No,Not Recovered,Elderly,F,Germany
+PV0218,20-12-2023,Ibuprofen,Fever,Nervous system disorders,Fatigue,No,Not Recovered,Pediatric,F,Germany
+PV0219,02-11-2024,Amoxicillin,Hyperlipidemia,Nervous system disorders,Palpitations,Yes,Recovered,Elderly,F,USA
+PV0220,22-04-2023,Amoxicillin,Fever,General disorders,Rash,No,Recovered,Elderly,M,India
+PV0221,13-04-2023,Paracetamol,Infection,GI disorders,Palpitations,No,Recovering,Pediatric,F,Germany
+PV0222,03-05-2024,Ibuprofen,Pain,Nervous system disorders,Fatigue,No,Recovering,Pediatric,M,Canada
+PV0223,26-08-2023,Paracetamol,Infection,Cardiac disorders,Rash,No,Recovering,Pediatric,F,Germany
+PV0224,10-07-2023,Ibuprofen,Fever,GI disorders,Headache,No,Fatal,Elderly,M,UK
+PV0225,19-10-2023,Atorvastatin,Diabetes,Skin disorders,Palpitations,No,Recovering,Adult,F,USA
+PV0226,26-04-2023,Ciprofloxacin,Pain,Skin disorders,Nausea,No,Recovering,Elderly,F,UK
+PV0227,04-08-2024,Atorvastatin,Diabetes,Cardiac disorders,Palpitations,No,Recovered,Adult,M,Germany
+PV0228,16-11-2024,Metformin,Pain,Skin disorders,Nausea,Yes,Fatal,Adult,F,USA
+PV0229,02-04-2024,Ibuprofen,Hyperlipidemia,General disorders,Nausea,No,Fatal,Adult,F,USA
+PV0230,05-03-2023,Amoxicillin,Diabetes,General disorders,Fatigue,No,Recovered,Adult,M,UK
+PV0231,12-01-2024,Amoxicillin,Diabetes,Skin disorders,Dizziness,No,Recovered,Elderly,F,Germany
+PV0232,19-12-2024,Atorvastatin,Infection,Skin disorders,Fatigue,No,Recovered,Elderly,M,Canada
+PV0233,02-04-2024,Atorvastatin,Fever,GI disorders,Palpitations,No,Recovered,Elderly,M,Canada
+PV0234,03-07-2024,Atorvastatin,Diabetes,GI disorders,Fatigue,Yes,Recovered,Pediatric,F,India
+PV0235,06-06-2024,Amoxicillin,Hyperlipidemia,Cardiac disorders,Dizziness,No,Recovered,Elderly,M,Canada
+PV0236,18-04-2024,Paracetamol,Diabetes,Nervous system disorders,Nausea,No,Recovered,Elderly,M,Canada
+PV0237,16-03-2023,Paracetamol,Hyperlipidemia,GI disorders,Nausea,Yes,Recovered,Adult,M,UK
+PV0238,23-02-2024,Ciprofloxacin,Diabetes,Nervous system disorders,Dizziness,Yes,Recovered,Adult,F,Germany
+PV0239,24-03-2023,Atorvastatin,Infection,Nervous system disorders,Nausea,No,Recovering,Pediatric,F,Canada
+PV0240,11-05-2023,Paracetamol,Fever,Nervous system disorders,Dizziness,No,Recovered,Elderly,F,Canada
+PV0241,24-01-2024,Ibuprofen,Infection,Nervous system disorders,Rash,No,Recovered,Elderly,M,India
+PV0242,07-11-2024,Paracetamol,Infection,Skin disorders,Nausea,No,Recovering,Pediatric,M,Germany
+PV0243,04-09-2024,Amoxicillin,Fever,Cardiac disorders,Dizziness,No,Not Recovered,Pediatric,M,India
+PV0244,24-05-2023,Ciprofloxacin,Hyperlipidemia,Nervous system disorders,Palpitations,No,Recovered,Elderly,F,USA
+PV0245,06-11-2023,Atorvastatin,Infection,Cardiac disorders,Headache,No,Fatal,Adult,M,Canada
+PV0246,28-08-2024,Ciprofloxacin,Diabetes,General disorders,Dizziness,No,Not Recovered,Pediatric,F,Germany
+PV0247,21-06-2024,Amoxicillin,Pain,Cardiac disorders,Rash,No,Recovered,Elderly,F,USA
+PV0248,19-08-2023,Metformin,Fever,General disorders,Dizziness,No,Recovering,Adult,M,Germany
+PV0249,06-09-2023,Paracetamol,Diabetes,Nervous system disorders,Nausea,Yes,Recovered,Elderly,M,India
+PV0250,02-10-2023,Paracetamol,Fever,Skin disorders,Palpitations,No,Recovering,Elderly,M,Germany
+PV0251,02-08-2023,Paracetamol,Infection,Skin disorders,Fatigue,No,Recovered,Pediatric,F,USA
+PV0252,13-12-2024,Amoxicillin,Hyperlipidemia,Nervous system disorders,Headache,No,Recovered,Adult,F,Canada
+PV0253,26-10-2024,Atorvastatin,Diabetes,Cardiac disorders,Nausea,No,Recovered,Elderly,F,UK
+PV0254,28-07-2023,Atorvastatin,Infection,Skin disorders,Nausea,No,Recovered,Adult,F,UK
+PV0255,06-06-2023,Atorvastatin,Infection,Cardiac disorders,Palpitations,Yes,Recovered,Elderly,F,UK
+PV0256,15-05-2024,Metformin,Diabetes,Skin disorders,Fatigue,No,Recovering,Adult,M,USA
+PV0257,13-07-2024,Atorvastatin,Fever,General disorders,Nausea,No,Not Recovered,Pediatric,M,India
+PV0258,27-02-2024,Paracetamol,Infection,GI disorders,Rash,Yes,Recovering,Elderly,F,UK
+PV0259,03-03-2023,Atorvastatin,Diabetes,Cardiac disorders,Nausea,No,Recovering,Pediatric,F,India
+PV0260,18-01-2023,Ibuprofen,Fever,General disorders,Fatigue,No,Recovered,Elderly,F,USA
+PV0261,20-04-2023,Amoxicillin,Infection,General disorders,Palpitations,No,Recovered,Adult,F,UK
+PV0262,11-02-2024,Metformin,Hyperlipidemia,Skin disorders,Fatigue,Yes,Fatal,Pediatric,F,India
+PV0263,31-10-2024,Paracetamol,Fever,Cardiac disorders,Dizziness,No,Recovering,Adult,F,India
+PV0264,14-10-2024,Metformin,Diabetes,Nervous system disorders,Palpitations,Yes,Recovered,Pediatric,M,USA
+PV0265,05-08-2023,Atorvastatin,Diabetes,Nervous system disorders,Nausea,No,Recovering,Pediatric,F,Canada
+PV0266,31-07-2024,Ibuprofen,Fever,Skin disorders,Palpitations,No,Recovered,Pediatric,F,India
+PV0267,03-11-2023,Metformin,Hyperlipidemia,Nervous system disorders,Dizziness,Yes,Recovered,Elderly,M,India
+PV0268,27-05-2024,Paracetamol,Diabetes,Skin disorders,Nausea,No,Recovered,Adult,F,UK
+PV0269,31-01-2023,Metformin,Diabetes,Skin disorders,Headache,No,Recovering,Elderly,F,Germany
+PV0270,10-07-2023,Paracetamol,Hyperlipidemia,Nervous system disorders,Rash,No,Recovering,Elderly,M,India
+PV0271,02-10-2023,Ciprofloxacin,Infection,Cardiac disorders,Headache,Yes,Recovering,Adult,M,India
+PV0272,06-01-2023,Ibuprofen,Fever,Skin disorders,Nausea,No,Recovered,Pediatric,F,Germany
+PV0273,24-07-2024,Paracetamol,Fever,Nervous system disorders,Palpitations,No,Recovered,Pediatric,F,Germany
+PV0274,13-01-2023,Paracetamol,Hyperlipidemia,Skin disorders,Palpitations,Yes,Recovered,Elderly,M,Germany
+PV0275,23-06-2023,Metformin,Infection,GI disorders,Rash,Yes,Recovered,Adult,F,Germany
+PV0276,03-11-2023,Ibuprofen,Infection,Cardiac disorders,Palpitations,No,Recovered,Elderly,M,Germany
+PV0277,20-04-2023,Metformin,Pain,General disorders,Dizziness,Yes,Recovered,Adult,F,UK
+PV0278,16-03-2024,Atorvastatin,Infection,Nervous system disorders,Headache,No,Not Recovered,Elderly,M,Germany
+PV0279,18-11-2023,Ibuprofen,Pain,Cardiac disorders,Palpitations,Yes,Recovered,Pediatric,F,Germany
+PV0280,15-10-2023,Paracetamol,Hyperlipidemia,Skin disorders,Palpitations,No,Recovered,Elderly,M,Canada
+PV0281,28-01-2023,Ciprofloxacin,Infection,Cardiac disorders,Headache,No,Recovered,Elderly,M,Germany
+PV0282,20-11-2024,Amoxicillin,Pain,Skin disorders,Fatigue,No,Recovering,Adult,F,India
+PV0283,04-04-2024,Metformin,Hyperlipidemia,General disorders,Fatigue,No,Recovered,Adult,M,UK
+PV0284,19-12-2024,Ciprofloxacin,Fever,GI disorders,Rash,No,Recovered,Elderly,F,USA
+PV0285,24-10-2024,Ciprofloxacin,Diabetes,Nervous system disorders,Dizziness,No,Recovered,Pediatric,M,India
+PV0286,22-09-2023,Atorvastatin,Hyperlipidemia,General disorders,Rash,Yes,Recovering,Adult,F,Germany
+PV0287,19-04-2024,Atorvastatin,Infection,Nervous system disorders,Nausea,No,Recovered,Adult,M,UK
+PV0288,01-03-2024,Ciprofloxacin,Infection,Nervous system disorders,Headache,No,Recovered,Adult,F,USA
+PV0289,17-06-2024,Metformin,Diabetes,Nervous system disorders,Nausea,No,Recovered,Adult,M,India
+PV0290,24-01-2023,Ciprofloxacin,Infection,Skin disorders,Palpitations,No,Recovering,Pediatric,M,UK
+PV0291,27-07-2024,Metformin,Infection,Skin disorders,Fatigue,No,Recovered,Elderly,F,Germany
+PV0292,30-01-2023,Metformin,Hyperlipidemia,Cardiac disorders,Dizziness,No,Not Recovered,Pediatric,M,USA
+PV0293,13-10-2023,Paracetamol,Hyperlipidemia,GI disorders,Palpitations,No,Not Recovered,Pediatric,F,UK
+PV0294,21-07-2023,Metformin,Hyperlipidemia,Nervous system disorders,Palpitations,No,Recovered,Adult,F,Canada
+PV0295,27-04-2023,Atorvastatin,Infection,Nervous system disorders,Palpitations,No,Not Recovered,Elderly,M,USA
+PV0296,17-11-2023,Amoxicillin,Pain,Skin disorders,Palpitations,Yes,Recovered,Adult,F,Canada
+PV0297,22-05-2023,Metformin,Hyperlipidemia,Skin disorders,Palpitations,No,Recovered,Pediatric,F,UK
+PV0298,24-05-2023,Atorvastatin,Fever,Nervous system disorders,Nausea,Yes,Not Recovered,Adult,M,USA
+PV0299,29-01-2024,Metformin,Diabetes,Cardiac disorders,Dizziness,No,Recovered,Elderly,F,Germany
+PV0300,21-06-2023,Amoxicillin,Pain,GI disorders,Headache,Yes,Recovered,Pediatric,F,USA
+PV0301,13-04-2024,Metformin,Hyperlipidemia,General disorders,Nausea,No,Recovering,Elderly,M,UK
+PV0302,10-07-2024,Paracetamol,Diabetes,General disorders,Rash,No,Recovered,Adult,M,USA
+PV0303,01-11-2023,Ibuprofen,Pain,GI disorders,Dizziness,No,Recovered,Pediatric,M,USA
+PV0304,25-08-2024,Atorvastatin,Diabetes,Skin disorders,Palpitations,No,Not Recovered,Pediatric,M,USA
+PV0305,02-03-2023,Atorvastatin,Hyperlipidemia,Skin disorders,Headache,No,Recovered,Elderly,F,UK
+PV0306,09-08-2024,Ciprofloxacin,Fever,Skin disorders,Dizziness,Yes,Not Recovered,Pediatric,F,USA
+PV0307,19-12-2024,Ciprofloxacin,Pain,Skin disorders,Fatigue,No,Recovered,Adult,F,USA
+PV0308,14-08-2024,Metformin,Diabetes,GI disorders,Fatigue,No,Recovering,Pediatric,F,Canada
+PV0309,12-10-2023,Metformin,Diabetes,Nervous system disorders,Palpitations,No,Not Recovered,Pediatric,M,Germany
+PV0310,12-10-2024,Paracetamol,Hyperlipidemia,Cardiac disorders,Rash,No,Recovered,Adult,M,Germany
+PV0311,02-10-2023,Atorvastatin,Hyperlipidemia,Skin disorders,Palpitations,No,Recovered,Adult,F,India
+PV0312,17-02-2023,Metformin,Fever,GI disorders,Rash,Yes,Recovering,Adult,F,India
+PV0313,14-03-2024,Amoxicillin,Pain,Skin disorders,Headache,Yes,Recovering,Pediatric,F,UK
+PV0314,26-03-2023,Amoxicillin,Fever,Cardiac disorders,Fatigue,No,Not Recovered,Adult,M,Germany
+PV0315,02-11-2024,Amoxicillin,Diabetes,GI disorders,Rash,Yes,Recovered,Elderly,M,Canada
+PV0316,27-11-2024,Ibuprofen,Fever,Cardiac disorders,Fatigue,No,Recovered,Pediatric,F,India
+PV0317,23-08-2023,Paracetamol,Fever,Nervous system disorders,Headache,No,Recovering,Adult,M,Germany
+PV0318,17-05-2023,Paracetamol,Hyperlipidemia,General disorders,Nausea,No,Recovering,Elderly,M,Germany
+PV0319,26-12-2023,Amoxicillin,Diabetes,General disorders,Fatigue,No,Recovering,Adult,M,India
+PV0320,13-04-2023,Ciprofloxacin,Diabetes,Nervous system disorders,Dizziness,Yes,Recovered,Adult,M,USA
+PV0321,11-10-2023,Atorvastatin,Hyperlipidemia,General disorders,Headache,No,Recovered,Elderly,M,UK
+PV0322,30-07-2023,Ciprofloxacin,Diabetes,Nervous system disorders,Fatigue,No,Recovered,Pediatric,M,Germany
+PV0323,31-01-2024,Atorvastatin,Fever,General disorders,Nausea,Yes,Recovered,Adult,F,USA
+PV0324,01-02-2024,Ibuprofen,Hyperlipidemia,Skin disorders,Dizziness,No,Recovered,Pediatric,M,Canada
+PV0325,11-03-2023,Paracetamol,Diabetes,General disorders,Headache,Yes,Recovered,Elderly,F,Germany
+PV0326,19-12-2024,Atorvastatin,Hyperlipidemia,Skin disorders,Headache,No,Recovering,Pediatric,F,India
+PV0327,07-06-2024,Amoxicillin,Hyperlipidemia,Nervous system disorders,Dizziness,No,Fatal,Elderly,M,UK
+PV0328,16-12-2024,Amoxicillin,Fever,Skin disorders,Nausea,No,Fatal,Adult,M,Germany
+PV0329,18-09-2024,Ciprofloxacin,Infection,GI disorders,Nausea,No,Recovered,Elderly,M,India
+PV0330,17-06-2023,Atorvastatin,Pain,Skin disorders,Headache,No,Recovered,Pediatric,F,India
+PV0331,31-01-2023,Atorvastatin,Fever,Nervous system disorders,Fatigue,No,Recovered,Elderly,M,Germany
+PV0332,11-04-2024,Atorvastatin,Infection,Nervous system disorders,Rash,No,Recovered,Adult,M,Canada
+PV0333,21-11-2024,Atorvastatin,Fever,GI disorders,Nausea,No,Recovered,Pediatric,M,Germany
+PV0334,08-01-2024,Paracetamol,Hyperlipidemia,Cardiac disorders,Rash,No,Recovered,Adult,M,Germany
+PV0335,24-11-2023,Ibuprofen,Fever,General disorders,Fatigue,Yes,Recovered,Pediatric,M,USA
+PV0336,12-06-2024,Paracetamol,Diabetes,Nervous system disorders,Headache,No,Fatal,Adult,M,Canada
+PV0337,12-04-2024,Atorvastatin,Pain,General disorders,Rash,Yes,Recovered,Adult,F,Canada
+PV0338,20-05-2024,Ciprofloxacin,Hyperlipidemia,Skin disorders,Rash,No,Recovering,Pediatric,F,India
+PV0339,27-08-2023,Ciprofloxacin,Fever,Nervous system disorders,Nausea,No,Recovering,Elderly,F,UK
+PV0340,17-04-2023,Metformin,Diabetes,GI disorders,Rash,Yes,Fatal,Elderly,F,India
+PV0341,14-02-2023,Atorvastatin,Diabetes,Nervous system disorders,Dizziness,No,Not Recovered,Elderly,M,Canada
+PV0342,08-04-2023,Metformin,Fever,General disorders,Palpitations,No,Recovering,Pediatric,F,USA
+PV0343,31-08-2023,Metformin,Pain,Nervous system disorders,Dizziness,Yes,Not Recovered,Adult,M,India
+PV0344,27-07-2023,Paracetamol,Infection,GI disorders,Rash,Yes,Recovering,Adult,F,UK
+PV0345,21-02-2024,Amoxicillin,Diabetes,Nervous system disorders,Dizziness,Yes,Recovered,Adult,M,India
+PV0346,11-06-2023,Ciprofloxacin,Hyperlipidemia,GI disorders,Rash,No,Recovered,Adult,M,India
+PV0347,29-12-2024,Atorvastatin,Fever,Nervous system disorders,Headache,Yes,Recovered,Pediatric,M,Germany
+PV0348,08-04-2024,Paracetamol,Diabetes,GI disorders,Rash,No,Recovered,Pediatric,M,India
+PV0349,16-08-2023,Ibuprofen,Fever,General disorders,Palpitations,Yes,Not Recovered,Adult,M,India
+PV0350,08-03-2023,Amoxicillin,Fever,Nervous system disorders,Nausea,Yes,Recovering,Pediatric,F,India
+PV0351,22-06-2023,Ciprofloxacin,Diabetes,Cardiac disorders,Nausea,No,Recovered,Adult,F,USA
+PV0352,29-12-2023,Ibuprofen,Diabetes,Skin disorders,Nausea,Yes,Recovered,Elderly,M,UK
+PV0353,25-05-2024,Paracetamol,Fever,Nervous system disorders,Dizziness,No,Recovered,Pediatric,F,USA
+PV0354,20-10-2024,Ciprofloxacin,Hyperlipidemia,GI disorders,Dizziness,No,Recovered,Elderly,F,Germany
+PV0355,11-07-2024,Atorvastatin,Hyperlipidemia,Nervous system disorders,Dizziness,No,Recovered,Adult,M,India
+PV0356,23-11-2023,Ibuprofen,Fever,Cardiac disorders,Palpitations,No,Recovered,Adult,M,USA
+PV0357,13-04-2023,Atorvastatin,Fever,Skin disorders,Palpitations,Yes,Recovered,Adult,F,USA
+PV0358,30-06-2023,Ciprofloxacin,Pain,General disorders,Nausea,Yes,Recovered,Elderly,F,Canada
+PV0359,31-07-2024,Metformin,Hyperlipidemia,Nervous system disorders,Rash,Yes,Not Recovered,Adult,M,India
+PV0360,27-02-2023,Atorvastatin,Diabetes,GI disorders,Headache,Yes,Recovered,Elderly,M,USA
+PV0361,15-12-2023,Ibuprofen,Fever,GI disorders,Rash,No,Not Recovered,Elderly,M,India
+PV0362,22-06-2024,Ibuprofen,Diabetes,General disorders,Nausea,No,Fatal,Adult,F,UK
+PV0363,20-05-2023,Metformin,Diabetes,Nervous system disorders,Rash,No,Recovering,Elderly,F,USA
+PV0364,12-11-2024,Ibuprofen,Pain,Skin disorders,Rash,No,Recovered,Elderly,M,Canada
+PV0365,05-02-2024,Atorvastatin,Fever,Skin disorders,Palpitations,No,Recovering,Adult,M,Canada
+PV0366,17-04-2023,Ciprofloxacin,Fever,Skin disorders,Headache,No,Recovered,Adult,M,India
+PV0367,26-12-2024,Ibuprofen,Diabetes,GI disorders,Headache,No,Recovering,Pediatric,M,India
+PV0368,25-12-2023,Paracetamol,Fever,Cardiac disorders,Dizziness,Yes,Recovered,Elderly,F,USA
+PV0369,28-02-2024,Atorvastatin,Diabetes,GI disorders,Dizziness,No,Recovered,Elderly,M,USA
+PV0370,07-04-2024,Ibuprofen,Fever,Nervous system disorders,Headache,Yes,Not Recovered,Pediatric,M,UK
+PV0371,24-06-2023,Paracetamol,Hyperlipidemia,GI disorders,Headache,No,Recovered,Elderly,F,India
+PV0372,17-03-2024,Metformin,Infection,GI disorders,Nausea,No,Recovered,Adult,M,USA
+PV0373,24-02-2024,Ciprofloxacin,Hyperlipidemia,Nervous system disorders,Fatigue,No,Recovering,Adult,F,USA
+PV0374,09-04-2023,Metformin,Infection,GI disorders,Headache,Yes,Recovered,Pediatric,F,India
+PV0375,29-10-2023,Metformin,Infection,GI disorders,Nausea,No,Recovering,Pediatric,M,UK
+PV0376,25-03-2023,Metformin,Diabetes,Cardiac disorders,Fatigue,No,Recovered,Adult,M,Canada
+PV0377,01-02-2024,Ibuprofen,Infection,Cardiac disorders,Nausea,Yes,Not Recovered,Adult,F,Germany
+PV0378,27-09-2023,Paracetamol,Infection,GI disorders,Nausea,Yes,Recovered,Elderly,F,Canada
+PV0379,28-02-2024,Atorvastatin,Fever,Cardiac disorders,Palpitations,No,Recovered,Adult,F,Canada
+PV0380,30-08-2023,Ciprofloxacin,Fever,General disorders,Palpitations,No,Recovered,Elderly,M,India
+PV0381,04-04-2024,Amoxicillin,Infection,Skin disorders,Nausea,Yes,Fatal,Adult,M,Germany
+PV0382,26-07-2023,Atorvastatin,Pain,Nervous system disorders,Fatigue,No,Recovering,Pediatric,M,Germany
+PV0383,23-07-2024,Ibuprofen,Hyperlipidemia,Cardiac disorders,Nausea,No,Recovered,Elderly,F,India
+PV0384,29-02-2024,Atorvastatin,Fever,GI disorders,Palpitations,Yes,Recovered,Pediatric,F,Canada
+PV0385,19-12-2023,Ciprofloxacin,Diabetes,General disorders,Palpitations,No,Recovered,Adult,M,USA
+PV0386,10-10-2023,Ciprofloxacin,Diabetes,GI disorders,Dizziness,No,Recovering,Adult,M,India
+PV0387,01-05-2024,Paracetamol,Pain,Nervous system disorders,Headache,No,Not Recovered,Adult,F,India
+PV0388,22-08-2023,Metformin,Pain,Nervous system disorders,Fatigue,Yes,Fatal,Adult,M,USA
+PV0389,28-03-2024,Ciprofloxacin,Diabetes,General disorders,Headache,Yes,Not Recovered,Pediatric,M,India
+PV0390,15-11-2023,Atorvastatin,Hyperlipidemia,GI disorders,Rash,No,Recovered,Pediatric,M,India
+PV0391,13-09-2023,Ibuprofen,Infection,Nervous system disorders,Headache,Yes,Recovered,Adult,F,India
+PV0392,28-11-2024,Atorvastatin,Diabetes,Skin disorders,Dizziness,Yes,Recovered,Elderly,F,UK
+PV0393,17-06-2023,Ciprofloxacin,Fever,Nervous system disorders,Nausea,No,Recovered,Adult,M,USA
+PV0394,08-08-2024,Amoxicillin,Infection,Skin disorders,Headache,No,Recovered,Elderly,F,Canada
+PV0395,21-01-2023,Ciprofloxacin,Fever,Cardiac disorders,Rash,No,Fatal,Elderly,M,Canada
+PV0396,09-01-2023,Ibuprofen,Pain,Cardiac disorders,Dizziness,Yes,Recovering,Adult,F,UK
+PV0397,12-08-2023,Atorvastatin,Diabetes,General disorders,Nausea,No,Recovering,Pediatric,F,Canada
+PV0398,24-10-2024,Ciprofloxacin,Fever,Cardiac disorders,Nausea,No,Recovered,Adult,F,UK
+PV0399,11-10-2023,Ciprofloxacin,Pain,Skin disorders,Rash,Yes,Recovering,Elderly,M,India
+PV0400,06-09-2024,Amoxicillin,Fever,Cardiac disorders,Headache,No,Recovered,Adult,F,Germany
+PV0401,02-02-2024,Atorvastatin,Infection,Nervous system disorders,Fatigue,No,Recovered,Elderly,M,Canada
+PV0402,15-10-2024,Ciprofloxacin,Pain,General disorders,Headache,No,Not Recovered,Pediatric,M,UK
+PV0403,10-04-2023,Ciprofloxacin,Hyperlipidemia,Skin disorders,Fatigue,No,Recovering,Adult,M,USA
+PV0404,30-12-2023,Metformin,Pain,Nervous system disorders,Headache,Yes,Not Recovered,Elderly,F,Germany
+PV0405,01-05-2023,Atorvastatin,Hyperlipidemia,General disorders,Nausea,No,Not Recovered,Adult,M,Canada
+PV0406,03-05-2023,Ibuprofen,Diabetes,GI disorders,Rash,No,Recovered,Pediatric,M,UK
+PV0407,24-02-2024,Metformin,Infection,Nervous system disorders,Fatigue,No,Not Recovered,Pediatric,M,Germany
+PV0408,07-12-2023,Ciprofloxacin,Fever,GI disorders,Dizziness,No,Recovered,Adult,M,USA
+PV0409,13-08-2024,Paracetamol,Infection,General disorders,Dizziness,No,Recovered,Elderly,F,Germany
+PV0410,15-03-2024,Paracetamol,Hyperlipidemia,Skin disorders,Fatigue,No,Recovered,Adult,M,UK
+PV0411,27-06-2024,Ciprofloxacin,Infection,Skin disorders,Fatigue,Yes,Recovering,Adult,F,USA
+PV0412,16-04-2023,Amoxicillin,Fever,GI disorders,Headache,No,Recovered,Adult,F,Canada
+PV0413,02-09-2024,Ciprofloxacin,Infection,Nervous system disorders,Dizziness,No,Recovered,Adult,M,USA
+PV0414,18-02-2024,Amoxicillin,Infection,GI disorders,Palpitations,Yes,Recovered,Elderly,M,India
+PV0415,11-01-2024,Metformin,Pain,General disorders,Palpitations,No,Recovering,Pediatric,M,India
+PV0416,31-10-2024,Paracetamol,Diabetes,Cardiac disorders,Dizziness,No,Recovered,Pediatric,F,Germany
+PV0417,19-12-2024,Ciprofloxacin,Fever,Nervous system disorders,Dizziness,Yes,Recovering,Elderly,M,Canada
+PV0418,04-10-2023,Metformin,Fever,General disorders,Fatigue,No,Recovering,Elderly,M,UK
+PV0419,27-04-2023,Atorvastatin,Infection,Nervous system disorders,Palpitations,No,Recovered,Pediatric,F,Germany
+PV0420,30-10-2023,Amoxicillin,Diabetes,Nervous system disorders,Rash,Yes,Recovered,Pediatric,M,India
+PV0421,24-04-2023,Amoxicillin,Fever,General disorders,Nausea,No,Recovering,Elderly,M,UK
+PV0422,21-10-2024,Ibuprofen,Pain,Cardiac disorders,Nausea,Yes,Fatal,Pediatric,M,India
+PV0423,25-10-2023,Metformin,Fever,GI disorders,Nausea,No,Recovering,Pediatric,M,USA
+PV0424,03-12-2023,Atorvastatin,Pain,GI disorders,Headache,No,Recovered,Adult,M,India
+PV0425,15-02-2024,Metformin,Diabetes,Cardiac disorders,Fatigue,No,Recovered,Pediatric,M,USA
+PV0426,13-12-2024,Amoxicillin,Fever,Cardiac disorders,Palpitations,No,Fatal,Adult,F,USA
+PV0427,17-09-2024,Paracetamol,Infection,Cardiac disorders,Dizziness,No,Recovered,Pediatric,F,Germany
+PV0428,17-02-2023,Paracetamol,Hyperlipidemia,General disorders,Fatigue,Yes,Recovering,Elderly,M,UK
+PV0429,15-06-2024,Paracetamol,Diabetes,Skin disorders,Dizziness,No,Recovering,Adult,F,USA
+PV0430,25-07-2024,Paracetamol,Infection,General disorders,Dizziness,No,Recovering,Adult,M,India
+PV0431,18-05-2024,Ibuprofen,Fever,General disorders,Rash,No,Recovered,Elderly,F,Germany
+PV0432,29-08-2023,Atorvastatin,Diabetes,GI disorders,Dizziness,Yes,Recovered,Adult,F,India
+PV0433,24-05-2024,Metformin,Diabetes,GI disorders,Palpitations,No,Recovered,Elderly,M,India
+PV0434,10-09-2024,Atorvastatin,Hyperlipidemia,Skin disorders,Fatigue,No,Recovering,Elderly,F,UK
+PV0435,08-01-2024,Metformin,Pain,General disorders,Palpitations,No,Not Recovered,Elderly,F,UK
+PV0436,08-04-2024,Amoxicillin,Fever,Nervous system disorders,Headache,Yes,Recovering,Elderly,F,Canada
+PV0437,18-06-2024,Amoxicillin,Diabetes,Skin disorders,Fatigue,No,Recovered,Elderly,F,India
+PV0438,18-09-2023,Metformin,Infection,Cardiac disorders,Rash,No,Recovered,Elderly,F,India
+PV0439,29-02-2024,Ciprofloxacin,Hyperlipidemia,GI disorders,Dizziness,Yes,Recovering,Adult,M,Germany
+PV0440,05-01-2023,Metformin,Hyperlipidemia,Cardiac disorders,Palpitations,No,Recovered,Pediatric,M,USA
+PV0441,17-04-2023,Ibuprofen,Hyperlipidemia,Cardiac disorders,Dizziness,No,Recovering,Elderly,M,UK
+PV0442,12-02-2024,Metformin,Infection,Skin disorders,Dizziness,No,Fatal,Elderly,F,Canada
+PV0443,18-11-2023,Ciprofloxacin,Infection,Skin disorders,Rash,No,Not Recovered,Elderly,F,UK
+PV0444,19-11-2024,Amoxicillin,Hyperlipidemia,General disorders,Fatigue,Yes,Recovering,Elderly,F,India
+PV0445,27-12-2023,Ciprofloxacin,Diabetes,General disorders,Headache,No,Recovered,Adult,M,Canada
+PV0446,20-04-2023,Ciprofloxacin,Fever,Skin disorders,Headache,Yes,Recovered,Pediatric,F,UK
+PV0447,30-05-2023,Ibuprofen,Infection,General disorders,Nausea,No,Recovering,Adult,F,India
+PV0448,22-09-2024,Amoxicillin,Hyperlipidemia,Cardiac disorders,Rash,No,Recovering,Elderly,F,India
+PV0449,26-01-2024,Ciprofloxacin,Pain,General disorders,Nausea,No,Fatal,Pediatric,F,USA
+PV0450,27-09-2024,Metformin,Infection,Nervous system disorders,Palpitations,No,Not Recovered,Elderly,M,USA
+PV0451,29-10-2023,Paracetamol,Infection,Skin disorders,Fatigue,No,Fatal,Elderly,M,Germany
+PV0452,11-02-2023,Amoxicillin,Infection,General disorders,Headache,No,Recovered,Pediatric,F,Germany
+PV0453,27-12-2024,Ibuprofen,Hyperlipidemia,GI disorders,Fatigue,No,Recovered,Elderly,F,Germany
+PV0454,09-08-2024,Ciprofloxacin,Pain,General disorders,Rash,No,Recovered,Pediatric,M,Canada
+PV0455,13-06-2023,Paracetamol,Pain,Skin disorders,Rash,No,Recovered,Elderly,F,UK
+PV0456,05-01-2024,Atorvastatin,Hyperlipidemia,Cardiac disorders,Palpitations,Yes,Fatal,Elderly,M,India
+PV0457,15-11-2024,Ciprofloxacin,Hyperlipidemia,General disorders,Rash,No,Recovered,Pediatric,F,Germany
+PV0458,27-04-2023,Ibuprofen,Fever,General disorders,Headache,No,Recovered,Elderly,F,Germany
+PV0459,14-02-2023,Ibuprofen,Hyperlipidemia,GI disorders,Nausea,Yes,Recovering,Pediatric,M,India
+PV0460,04-08-2023,Ciprofloxacin,Diabetes,GI disorders,Rash,No,Recovering,Elderly,F,India
+PV0461,03-12-2024,Ibuprofen,Fever,GI disorders,Nausea,Yes,Recovered,Pediatric,M,UK
+PV0462,25-07-2024,Ibuprofen,Diabetes,Cardiac disorders,Dizziness,Yes,Not Recovered,Elderly,F,Germany
+PV0463,20-11-2023,Atorvastatin,Fever,General disorders,Nausea,Yes,Recovering,Elderly,M,India
+PV0464,02-01-2024,Ciprofloxacin,Pain,General disorders,Nausea,No,Recovered,Adult,F,Germany
+PV0465,09-02-2024,Amoxicillin,Hyperlipidemia,Skin disorders,Rash,No,Recovered,Elderly,F,Canada
+PV0466,30-10-2023,Ciprofloxacin,Pain,GI disorders,Palpitations,No,Recovered,Elderly,M,India
+PV0467,12-02-2023,Atorvastatin,Hyperlipidemia,GI disorders,Headache,Yes,Recovered,Pediatric,F,USA
+PV0468,27-02-2024,Amoxicillin,Infection,Skin disorders,Rash,No,Not Recovered,Elderly,F,USA
+PV0469,28-04-2023,Paracetamol,Hyperlipidemia,Cardiac disorders,Fatigue,Yes,Recovering,Elderly,M,UK
+PV0470,18-11-2024,Ciprofloxacin,Hyperlipidemia,Cardiac disorders,Headache,Yes,Recovered,Adult,M,USA
+PV0471,13-04-2023,Amoxicillin,Pain,Cardiac disorders,Dizziness,Yes,Recovered,Adult,F,Canada
+PV0472,06-06-2023,Ibuprofen,Diabetes,Skin disorders,Nausea,No,Recovered,Adult,M,USA
+PV0473,30-12-2024,Ibuprofen,Infection,Nervous system disorders,Dizziness,No,Recovered,Adult,F,UK
+PV0474,09-11-2023,Ciprofloxacin,Hyperlipidemia,GI disorders,Headache,No,Recovered,Pediatric,M,UK
+PV0475,03-10-2024,Paracetamol,Hyperlipidemia,GI disorders,Palpitations,Yes,Recovered,Elderly,F,Canada
+PV0476,06-08-2023,Atorvastatin,Hyperlipidemia,Cardiac disorders,Fatigue,No,Recovered,Pediatric,F,Germany
+PV0477,17-08-2023,Ibuprofen,Infection,Cardiac disorders,Palpitations,No,Recovered,Elderly,M,Germany
+PV0478,08-01-2024,Atorvastatin,Infection,General disorders,Rash,No,Recovering,Adult,M,USA
+PV0479,02-08-2024,Amoxicillin,Diabetes,Nervous system disorders,Nausea,No,Recovering,Pediatric,F,USA
+PV0480,06-03-2023,Ciprofloxacin,Infection,General disorders,Headache,Yes,Recovered,Adult,F,Germany
+PV0481,17-02-2023,Paracetamol,Hyperlipidemia,Nervous system disorders,Fatigue,Yes,Recovering,Adult,M,Germany
+PV0482,31-10-2024,Paracetamol,Hyperlipidemia,Nervous system disorders,Dizziness,No,Recovered,Pediatric,F,UK
+PV0483,20-12-2023,Atorvastatin,Fever,General disorders,Rash,No,Recovered,Adult,M,USA
+PV0484,20-03-2023,Amoxicillin,Infection,Skin disorders,Headache,No,Recovered,Elderly,M,USA
+PV0485,29-02-2024,Metformin,Diabetes,Cardiac disorders,Rash,No,Recovering,Elderly,M,Germany
+PV0486,23-01-2023,Atorvastatin,Infection,Skin disorders,Fatigue,Yes,Recovered,Elderly,M,Canada
+PV0487,31-05-2023,Amoxicillin,Hyperlipidemia,Cardiac disorders,Palpitations,Yes,Recovered,Elderly,M,UK
+PV0488,29-03-2023,Metformin,Diabetes,Skin disorders,Rash,Yes,Recovering,Adult,M,Canada
+PV0489,06-07-2023,Amoxicillin,Pain,Cardiac disorders,Palpitations,No,Recovered,Elderly,M,USA
+PV0490,23-01-2024,Amoxicillin,Hyperlipidemia,General disorders,Fatigue,No,Recovered,Adult,M,Canada
+PV0491,09-04-2023,Atorvastatin,Fever,General disorders,Palpitations,Yes,Not Recovered,Pediatric,M,Germany
+PV0492,06-11-2024,Paracetamol,Diabetes,General disorders,Dizziness,Yes,Recovering,Adult,M,Canada
+PV0493,15-03-2024,Metformin,Pain,General disorders,Fatigue,Yes,Not Recovered,Elderly,M,Germany
+PV0494,18-05-2023,Paracetamol,Pain,General disorders,Palpitations,Yes,Recovering,Adult,F,USA
+PV0495,06-01-2023,Atorvastatin,Hyperlipidemia,GI disorders,Palpitations,No,Recovering,Pediatric,F,USA
+PV0496,05-12-2024,Paracetamol,Infection,Cardiac disorders,Fatigue,No,Recovered,Elderly,F,UK
+PV0497,02-07-2024,Ibuprofen,Diabetes,Skin disorders,Dizziness,No,Recovered,Elderly,F,USA
+PV0498,15-01-2024,Ibuprofen,Hyperlipidemia,Nervous system disorders,Fatigue,No,Recovered,Adult,M,India
+PV0499,24-08-2023,Amoxicillin,Fever,Skin disorders,Palpitations,No,Recovering,Adult,F,Canada
+PV0500,20-09-2024,Amoxicillin,Diabetes,GI disorders,Nausea,No,Recovering,Pediatric,F,Canada
